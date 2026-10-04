@@ -11,7 +11,7 @@
   <a href="https://github.com/patotective43-glitch/duckguessr-releases/releases/latest"><img src="https://img.shields.io/badge/Download_for_Windows-free-d4a72c?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
   <a href="https://github.com/patotective43-glitch/duckguessr-releases/releases/latest"><img src="https://img.shields.io/github/v/release/patotective43-glitch/duckguessr-releases?style=for-the-badge&label=version&color=7b2fbe" alt="Latest version"></a>
   <a href="https://github.com/patotective43-glitch/duckguessr-releases/releases"><img src="https://img.shields.io/github/downloads/patotective43-glitch/duckguessr-releases/total?style=for-the-badge&color=c0392b" alt="Downloads"></a>
-  <a href="#support-the-project"><img src="https://img.shields.io/badge/Support_the_project-♥-ff5e5b?style=for-the-badge" alt="Support the project"></a>
+  <a href="https://ko-fi.com/patotective"><img src="https://img.shields.io/badge/Support_on_Ko--fi-♥-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
 </p>
 
 <p align="center">
@@ -110,7 +110,15 @@ All versions are on the [Releases](https://github.com/patotective43-glitch/duckg
 
 ## Support the project
 
-Duckguessr is free and will stay free. If you're having fun with it, the best ways to help are:
+Duckguessr is free and will stay free. If you're having fun with it and want to throw a chip on the table, you can tip on Ko-fi:
+
+<p>
+  <a href="https://ko-fi.com/patotective"><img src="https://img.shields.io/badge/Ko--fi-tip_the_duck-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Tip on Ko-fi"></a>
+</p>
+
+Right now the pot is for a code signing certificate, so Windows stops showing the "Windows protected your PC" warning when you install the game.
+
+Free ways to help that matter just as much:
 
 - ⭐ Star this repo.
 - Share the game with your friends (it's better with more people).
@@ -137,4 +145,4 @@ Se juega 1v1, 2v2 o todos contra todos en red local (LAN). También se ha probad
 
 **Instalar:** descarga `Duckguessr-Setup-x.x.x.exe` desde [Releases](https://github.com/patotective43-glitch/duckguessr-releases/releases/latest). Si Windows dice "Windows protegió su PC", pulsa **Más información → Ejecutar de todas formas**. La primera vez que abras el juego, pulsa **Permitir** en el aviso del firewall. El juego se actualiza solo.
 
-**Apoyar el proyecto:** el juego es gratis y lo seguirá siendo. La mejor forma de ayudar es darle una ⭐ al repo, pasárselo a tus amigos y avisarnos de fallos o ideas en [Issues](https://github.com/patotective43-glitch/duckguessr-releases/issues).
+**Apoyar el proyecto:** el juego es gratis y lo seguirá siendo. Si quieres echar una ficha, puedes dejar una propina en [Ko-fi](https://ko-fi.com/patotective); ahora mismo el bote es para quitar el aviso azul de Windows al instalar. También ayuda mucho darle una ⭐ al repo, pasárselo a tus amigos y avisarnos de fallos o ideas en [Issues](https://github.com/patotective43-glitch/duckguessr-releases/issues).
